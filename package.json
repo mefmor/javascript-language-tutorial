@@ -1,0 +1,17 @@
+{
+    "name": "javascript-language-tutorial",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Pavel_Zaitsev",
+    "contributors": [],
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^7.0.1"
+    }
+}
